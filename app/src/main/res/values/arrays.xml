@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="act_array">
+        <item>Untuk Test Timer</item>
+        <item>15 Minutes</item>
+        <item>30 Minutes</item>
+        <item>1 Hours</item>
+        <item>2 Hours</item>
+    </string-array>
+    <integer-array name="minutes_array">
+        <item>0</item>
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+    </integer-array>
+</resources>

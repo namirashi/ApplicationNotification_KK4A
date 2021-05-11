@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Study Timer</string>
+    <string name="act_prompt">How long did you study?</string>
+    <string name="timer_on">Start</string>
+    <string name="timer_off">Stop</string>
+    <string name="notification_title">Study Timer</string>
+    <string name="notification_text">Your study is done!</string>
+
+    <string name="fcm_message">FCM Message</string>
+    <string name="message_subscribe_failed">Failed to subscribe to topic</string>
+    <string name="message_subscribed">Subscribed to topic</string>
+    <string name="act_notification_channel_id" translatable="false">act _channel</string>
+    <string name="act_notification_channel_name" translatable="true">Study</string>
+    <string name="breakfast_notification_channel_id" translatable="false">fcm_default_channel</string>
+    <string name="breakfast_notification_channel_name" translatable="true">Break!</string>
+    <string name="act_ready">Enjoy your study!</string>
+    <string name="timer_running">Study timer is running...</string>
+    <string name="breakfast_notification_channel_description">Breakfast reminder</string>
+    <string name="snooze">Snooze</string>
+</resources>
